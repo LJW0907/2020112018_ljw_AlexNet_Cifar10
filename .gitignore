@@ -1,0 +1,65 @@
+# Python 관련
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 가상환경
+venv/
+ENV/
+.env
+
+# 데이터셋 (용량이 크므로 제외)
+data/cifar10/
+*.tar.gz
+
+# 학습된 모델 파일
+*.pth
+results/models/
+results/logs/
+
+# IDE 관련
+.idea/
+.vscode/
+*.swp
+*.swo
+.project
+.pydevproject
+
+# 운영체제 관련
+.DS_Store
+Thumbs.db
+
+# 실험 결과 (선택적)
+*.png
+*.jpg
+*.jpeg
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# 기타
+*.csv
+*.json
+*.yaml.bak
+temp/
+logs/
