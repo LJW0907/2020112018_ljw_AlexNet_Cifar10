@@ -1,0 +1,15 @@
+Model Performance Comparison
+=========================
+
+
+base_alexnet:
+Final Test Accuracy: 48.92%
+Accuracy Gap: -5.29%
+Loss Gap: 0.1517
+Early Stopping Needed: False
+
+alexnet_with_skip:
+Final Test Accuracy: 55.27%
+Accuracy Gap: -3.63%
+Loss Gap: 0.1031
+Early Stopping Needed: False

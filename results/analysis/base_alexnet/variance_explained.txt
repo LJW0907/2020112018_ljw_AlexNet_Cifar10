@@ -1,0 +1,2 @@
+Individual explained variance ratios: [0.28193287 0.1573619 ]
+Cumulative explained variance ratio: [0.28193287 0.43929477]
